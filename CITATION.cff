@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite this analysis software and the upstream Russello et al. dataset paper."
+type: software
+title: "Body-referenced posture and validation-gated temporal fusion for mild lameness recognition in dairy cows"
+version: "1.0.0"
+authors:
+  - family-names: Wu
+    given-names: Baorong
+  - family-names: Li
+    given-names: Xincheng
+  - family-names: Shi
+    given-names: Shenghao
+  - family-names: Shen
+    given-names: Huiyong
+  - family-names: Li
+    given-names: Mingsheng
+  - family-names: Jia
+    given-names: Guozeng
+license: MIT
+keywords:
+  - dairy cattle
+  - mild lameness
+  - pose trajectories
+  - grouped cross-validation
+  - body-referenced coordinates
+repository-code: "https://github.com/baorongwu2-debug/dairy-cow-mild-lameness-body-reference"

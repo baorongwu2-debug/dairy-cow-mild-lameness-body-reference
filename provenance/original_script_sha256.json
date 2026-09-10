@@ -1,0 +1,8 @@
+{
+  "pose_study.py": "d82e1fb8be5e974ff02518c20b3b76a02f3696a1d32fd09ddba18bb3081b4974",
+  "enhanced_study.py": "98ef18c6ee22180f60355cd849ade60b6919bb72539f5e2a3d2805ff35396b4c",
+  "sequence_baselines.py": "4b2945796bd4ffff563cf9f1cc2782d6eedceac8c33ffc80ec43ecdad8f20a04",
+  "temporal_fusion.py": "51571617113d20b3d7be76fc028ff22dfbd0c2a5fa69dab13f03f821ec977743",
+  "finalize_pose.py": "e72ec178d6972dd80b2a753786d27d5ff5f596b208ded1a2c4c05cf330ae0596",
+  "enhanced_finalize.py": "4c90d29057d2008a9dfd28759d77a1c5453bc8df755e016ad3f6f341a66890ec"
+}

@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "feature_rows_reproduced": 272,
+  "feature_columns": 234,
+  "saved_outer_models_refitted": 2,
+  "prediction_tolerance": 1e-08,
+  "mkl_fit_and_predict": "passed",
+  "bilstm_and_cnn_forward": "passed",
+  "scope": "Packaged code tested against existing environment and source data; no complete four-stage retraining or clean-environment dependency installation"
+}

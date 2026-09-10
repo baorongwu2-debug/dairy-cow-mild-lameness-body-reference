@@ -1,0 +1,1 @@
+{"status":"passed","prediction_rows":15330,"outer_folds":300,"inner_folds":900,"cow_overlap":0,"all_mean_metrics_recomputed":true,"two_saved_outer_folds_reproduced":true,"retained_combined_features_example":{"mild":206,"all":206},"upstream_pose_independence":"not established","full_data_models":"research demonstration only; no independent evaluation after full-data refit"}
